@@ -114,7 +114,7 @@ Use arrow keys (↑/↓) to navigate and Enter to select.
 
 ## License
 
-This project is free and open-source. Feel free to use, modify, and distribute.
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
